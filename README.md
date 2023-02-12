@@ -1,2 +1,2 @@
-# PrepcourseHenry
-Este es un repositorio de prueba del modulo 2 de Henrry
+Esta es una prueba inicial para trabajar desde la nube un repositorio
+
